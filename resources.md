@@ -18,6 +18,8 @@
  16. [retro website resources](https://fructisfans.neocities.org/graphics#template)
  17. [adriansblinkiecollection (massive blinkie collection](https://adriansblinkiecollection.neocities.org/)
  18. [88x31 GIF collection](https://cyber.dabamos.de/88x31/index.html)
+ 19. [frutiger aero Archive](https://frutigeraeroarchive.org/)
+ 20. [daniele63](https://daniele63.com/)
 
 !["got html" web button](https://adriansblinkiecollection.neocities.org/buttons/a6.gif)
 ![88by31 button](https://cyber.dabamos.de/88x31/88by31.gif)
